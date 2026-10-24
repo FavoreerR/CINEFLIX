@@ -1,0 +1,41 @@
+{
+  "collection": "Popeye clásicos",
+  "status": "pending_rights_review_and_playback_testing",
+  "source": "https://commons.wikimedia.org/wiki/Category:Popeye_the_Sailor_cartoons",
+  "note": "US public domain labeling does not establish Chile distribution rights. These are candidates, not playable app entries.",
+  "items": [
+    {
+      "title": "Popeye the Sailor Meets Sindbad the Sailor",
+      "year": 1936,
+      "source": "https://commons.wikimedia.org/wiki/File:Popeye_the_Sailor_Meets_Sindbad_the_Sailor.webm"
+    },
+    {
+      "title": "Little Swee'Pea",
+      "year": 1936
+    },
+    {
+      "title": "The Paneless Window Washer",
+      "year": 1937
+    },
+    {
+      "title": "I Never Changes My Altitude",
+      "year": 1937
+    },
+    {
+      "title": "Shuteye Popeye",
+      "year": 1952
+    },
+    {
+      "title": "Private Eye Popeye",
+      "year": 1954
+    },
+    {
+      "title": "Insect to Injury",
+      "year": 1956
+    },
+    {
+      "title": "Spooky Swabs",
+      "year": 1957
+    }
+  ]
+}
