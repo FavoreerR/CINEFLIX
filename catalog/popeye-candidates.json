@@ -2,7 +2,7 @@
   "collection": "Popeye clásicos",
   "status": "pending_rights_review_and_playback_testing",
   "source": "https://commons.wikimedia.org/wiki/Category:Popeye_the_Sailor_cartoons",
-  "note": "US public domain labeling does not establish Chile distribution rights. These are candidates, not playable app entries.",
+  "note": "Candidate source links only; no app player integration. Wikimedia public-domain tags are US-specific; check Chilean rights and media license review before distribution. Let's Sing With Popeye (1934) excluded due to 2026 deletion/copyright dispute.",
   "items": [
     {
       "title": "Popeye the Sailor Meets Sindbad the Sailor",
@@ -11,11 +11,13 @@
     },
     {
       "title": "Little Swee'Pea",
-      "year": 1936
+      "year": 1936,
+      "source": "https://commons.wikimedia.org/wiki/File:Little_Swee%27Pea_(1936).webm"
     },
     {
       "title": "The Paneless Window Washer",
-      "year": 1937
+      "year": 1937,
+      "source": "https://commons.wikimedia.org/wiki/File:The_Paneless_Window_Washer_(1937).webm"
     },
     {
       "title": "I Never Changes My Altitude",
@@ -23,7 +25,8 @@
     },
     {
       "title": "Shuteye Popeye",
-      "year": 1952
+      "year": 1952,
+      "source": "https://commons.wikimedia.org/wiki/File:Shuteye_Popeye_(1952).webm"
     },
     {
       "title": "Private Eye Popeye",
@@ -36,6 +39,12 @@
     {
       "title": "Spooky Swabs",
       "year": 1957
+    },
+    {
+      "title": "Popeye the Sailor Meets Ali Baba's Forty Thieves",
+      "year": 1937,
+      "source": "https://commons.wikimedia.org/wiki/Category:Popeye_the_Sailor_cartoons",
+      "status": "locate_and_verify_exact_media"
     }
   ]
 }
